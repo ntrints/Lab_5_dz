@@ -7,7 +7,8 @@
 
 # Блоксхема
 
-<img width="2008" height="2928" alt="image" src="https://github.com/user-attachments/assets/b8b48b00-0258-4fb1-9b47-3325d5b3564e" />
+![Блок-схема](https://github.com/user-attachments/assets/c2630854-fafd-4e1d-b716-b22457920c06)
+
 
 # Реализация программы
 
